@@ -27,14 +27,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/othneildrew/Best-README-Template"> <!-- PROJECT LOGO (Make It All -->
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Make It All</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome README template to jumpstart your projects! <!-- PROJECT LOGO (Make It All -->
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -93,12 +93,13 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+#### Built With
+#### Languages & Tools
+<img align="center" alt="HTML5" width="100px" src="https://img.shields.io/badge/-HTML5-E34F26?logo=css3&logoColor=white&style=for-the-badge"/>
+<img align="center" alt="CSS3" width="88px" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
+<img align="center" alt="PHP" width="78px" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"/>
+<img align="center" alt="Sqlite" width="105px" src="https://img.shields.io/badge/-Sqlite-003B57?logo=sqlite&logoColor=white&style=for-the-badge"/> 
+<img align="center" alt="GCP" width="78px" src="https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge"/>
 
 
 
