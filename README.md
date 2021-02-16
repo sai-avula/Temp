@@ -95,7 +95,8 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 <!-- BUILT WITH -->
 ### Built With
-Following Languages and Tools were used in building the project.
+
+Following Languages and Tools were essential in building the project.
 
 #### Languages
 <img align="left" alt="HTML5" width="100px" src="https://img.shields.io/badge/-HTML5-E34F26?logo=css3&logoColor=white&style=for-the-badge"/>
