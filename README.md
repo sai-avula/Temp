@@ -94,14 +94,21 @@ Of course, no one template will serve all projects since your needs may be diffe
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 #### Built With
-#### Languages & Tools
-<img align="center" alt="HTML5" width="100px" src="https://img.shields.io/badge/-HTML5-E34F26?logo=css3&logoColor=white&style=for-the-badge"/>
-<img align="center" alt="CSS3" width="88px" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
-<img align="center" alt="PHP" width="78px" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"/>
-<img align="center" alt="Sqlite" width="105px" src="https://img.shields.io/badge/-Sqlite-003B57?logo=sqlite&logoColor=white&style=for-the-badge"/> 
-<img align="center" alt="GCP" width="78px" src="https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge"/>
+#### Languages
+<img align="left" alt="HTML5" width="100px" src="https://img.shields.io/badge/-HTML5-E34F26?logo=css3&logoColor=white&style=for-the-badge"/>
+<img align="left" alt="CSS3" width="86.5px" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
+<img align="left" alt="PHP" width="77.5px" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"/>
+<img align="left" alt="Sqlite" width="104.125px" src="https://img.shields.io/badge/-Sqlite-003B57?logo=sqlite&logoColor=white&style=for-the-badge"/>  
 
+<br/>
 
+#### Tools - 
+<img align="left" alt="Trello" width="105.5" src="https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white&style=for-the-badge"/>
+<img align="left" alt="Git" width="75px" src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
+<img align="left" alt="GitHub" width="108px" src="https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white&style=for-the-badge"/>
+<img align="left" alt="GCP" width="77.5px" src="https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge"/>
+
+<br/>
 
 <!-- GETTING STARTED -->
 ## Getting Started
