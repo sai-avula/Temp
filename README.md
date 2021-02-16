@@ -93,7 +93,10 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-#### Built With
+<!-- BUILT WITH -->
+### Built With
+Following Languages and Tools were used in building the project.
+
 #### Languages
 <img align="left" alt="HTML5" width="100px" src="https://img.shields.io/badge/-HTML5-E34F26?logo=css3&logoColor=white&style=for-the-badge"/>
 <img align="left" alt="CSS3" width="86.5px" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
